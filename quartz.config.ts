@@ -29,7 +29,7 @@ const config: QuartzConfig = {
           lightgray: "#D3D3D3", // Borders: light gray for subtle separation
           gray: "#A9A9A9",      // Graph links and heavier borders: medium gray
           darkgray: "#333333",  // Body text: dark gray for readability
-          dark: "#000000",      // Header text and icons: black for high contrast
+          dark: "#8B1A2F",      // Header text and icons: use the accent burgundy
           secondary: "#8B1A2F", // Burgundy for links and current graph node, richer, darker red
           tertiary: "#8B1A2F",  // Burgundy for hover states and visited graph nodes
           highlight: "rgba(139, 26, 47, 0.1)", // Soft burgundy for internal link background and highlighted text
@@ -41,7 +41,7 @@ const config: QuartzConfig = {
           gray: "#666666",      // Graph links and heavier borders: light gray for visibility
           darkgray: "#E0E0E0",  // Body text: light gray for readability in dark mode
           dark: "#FFD700",      // Header text and icons: gold for elegance
-          secondary: "#FFD700", // Links and current graph node: gold for consistent regal theme
+          secondary: "#FFD700", // Links and current graph node: gold for consistency
           tertiary: "#FFD700",  // Hover states and visited graph nodes: bright gold for interaction
           highlight: "rgba(255, 215, 0, 0.1)", // Internal link background, highlighted text: soft gold highlight
           textHighlight: "#FFD70088", // Markdown highlighted text background: gold with more opacity
@@ -88,4 +88,5 @@ const config: QuartzConfig = {
 }
 
 export default config
+
 
