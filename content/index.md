@@ -17,7 +17,7 @@ For now my DMs are open at [@AgentOfApollo](https://x.com/AgentOfApollo)
 ## Ethics
 
 
-## Art
+## [[Art/index|Art]]
 
 
 ## Finance
