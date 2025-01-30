@@ -7,7 +7,7 @@ For now my DMs are open at [@AgentOfApollo](https://x.com/AgentOfApollo)
 
 # 🧭 Start Here
 
-[🚨 READ THIS FIRST 🚨]([Life, Overreaching and Correcting Error · Elliot Temple](https://www.elliottemple.com/essays/life-overreaching-correcting-error))
+![🚨 READ THIS FIRST 🚨](https://www.elliottemple.com/essays/life-overreaching-correcting-error)
 
 ## Problem Solving
 
