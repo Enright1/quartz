@@ -8,7 +8,7 @@ For now my DMs are open at [@AgentOfApollo](https://x.com/AgentOfApollo)
 # 🧭 Start Here
 
 ### Problem Solving
-
+![[Life, Overreaching and Correcting Error · Elliot Temple](https://www.elliottemple.com/essays/life-overreaching-correcting-error)]
 
 ### Health
 
@@ -26,5 +26,3 @@ For now my DMs are open at [@AgentOfApollo](https://x.com/AgentOfApollo)
 
 
 ### Science & Metaphysics
-
-![[AMBIENT TECHNO || mix 045 by Rob Jenkins](https://www.youtube.com/watch?v=ubera4dJeCI)]
