@@ -1,0 +1,1 @@
+I recommend reading this essay before anything else
