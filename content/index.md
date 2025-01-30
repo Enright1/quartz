@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to enright.life
 ---
+I've built this site to share useful things with people.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+My handle on X is [@AgentOfApollo](https://x.com/AgentOfApollo). My DMs are open!
