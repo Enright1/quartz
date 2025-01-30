@@ -1,8 +1,22 @@
+### Essays
+
+[*Metaphysics in Marble* By Mary Ann Sures](https://courses.aynrand.org/works/metaphysics-in-marble/?nab=1)
+
+The work explores the intersection of sculpture, philosophy, and reality. It examines how marble sculptures embody metaphysical concepts, raising questions about form, permanence, and human understanding. The piece challenges perceptions of art and existence, offering a deeper look into the relationship between material and abstract interpretations.
+
+---
+
 ### Non-Fiction Books
 
 [*The Romantic Manifesto* by Ayn Rand](https://www.amazon.com/Romantic-Manifesto-Ayn-Rand-ebook/dp/B093PKZ14Q?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.b5tLCp8VcXG-9ftF3rkbspqa4FRBykab1V_cpD1z6Jon6xA6cTOh0smYGmcx6sjk_rVfqmB4dR4LjAmkTyP6oK5Bnkfajsf016O8g_I9OmhIQiJUEA1wdhv8mf1M-3zr6VXvBeyEmII5qrGyfYMXDjeO6qC-jXxnGiXOR9zKnwzQpc3D5ZDWFW6t89A5waTq10vZCb3IgNXqkbCB3rQ4ZVJgm8EVaeFOHhyQRQevrXs.GkPWurJz3xPlD5f-D4b2Td-ch1eoZmImemhsQPyG8zk&qid=1738250823&sr=8-1)
 
 Romanticism in art focuses on idealism, portraying human potential, values, and personal achievement. It seeks to inspire by highlighting the extraordinary, emphasizing individualism, emotion, and the pursuit of life's highest aspirations, presenting what could be, not just what is.
+
+Some of the chapters of this book are available online for free, these are particularly good:
+
+[*Philosophy and Sense of Life* by Ayn Rand](https://courses.aynrand.org/works/philosophy-and-sense-of-life/?nab=1)
+
+[*Art and Sense of Life* by Ayn Rand](https://courses.aynrand.org/works/art-and-sense-of-life/?nab=1)
 
 ---
 

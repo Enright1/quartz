@@ -1,4 +1,4 @@
-### Blogposts
+### Essays
 
 [*Morality* by Elliot Temple](https://curi.us/1169-morality)
 

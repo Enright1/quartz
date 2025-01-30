@@ -1,4 +1,4 @@
-### Blogposts
+### Essays
 
 [*Life, Overreaching and Correcting Error* by Elliot Temple](https://www.elliottemple.com/essays/life-overreaching-correcting-error)
 
