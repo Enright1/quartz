@@ -1,4 +1,4 @@
 ---
-title: Art
+title: Science & Metaphysics
 ---
 test

@@ -8,22 +8,16 @@ For now my DMs are open at [@AgentOfApollo](https://x.com/AgentOfApollo)
 ###### [🧭 Start Here](https://www.elliottemple.com/essays/life-overreaching-correcting-error)
 
 
-Problem Solving
+[[Problem Solving/index|Problem Solving]]
 
-
-Health
-
+[[Health/index|Health]]
 
 Ethics
 
-
 [[Art/index|Art]]
-
 
 Finance
 
-
 Politics & Economics
-
 
 Science & Metaphysics

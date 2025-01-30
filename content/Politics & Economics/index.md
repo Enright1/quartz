@@ -1,4 +1,4 @@
 ---
-title: Art
+title: Politics & Economics
 ---
 test
