@@ -5,18 +5,18 @@ I've built this site to make it easy to share useful things with people. I am as
 
 For now my DMs are open at [@AgentOfApollo](https://x.com/AgentOfApollo)
 
-### [🧭 Start Here](https://www.elliottemple.com/essays/life-overreaching-correcting-error) and enjoy!
+### 🧭 [Start Here](https://www.elliottemple.com/essays/life-overreaching-correcting-error) and enjoy!
 
-[[Problem Solving/index|Problem Solving]]
+💡 [[Problem Solving/index|Problem Solving]]
 
-[[Health/index|Health]]
+❤️ [[Health/index|Health]]
 
-[[Ethics/index|Ethics]]
+🕊️ [[Ethics/index|Ethics]]
 
-[[Art/index|Art]]
+🎭 [[Art/index|Art]]
 
-[[Finances & Investing/index|Finances & Investing]]
+💰 [[Finances & Investing/index|Finances & Investing]]
 
-[[Politics & Economics/index|Politics & Economics]]
+⚖️ [[Politics & Economics/index|Politics & Economics]]
 
-[[Science & Metaphysics/index|Science & Metaphysics]]
+🌌 [[Science & Metaphysics/index|Science & Metaphysics]]
