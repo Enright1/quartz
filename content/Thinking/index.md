@@ -1,4 +1,0 @@
----
-title: Thinking
----
-test page
