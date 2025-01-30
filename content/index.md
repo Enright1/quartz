@@ -9,8 +9,6 @@ For now my DMs are open at [@AgentOfApollo](https://x.com/AgentOfApollo)
 
 Enjoy!
 
-### 🧭 [Start Here](https://www.elliottemple.com/essays/life-overreaching-correcting-error)
-
 💡 [[Problem Solving]]
 
 ❤️ [[Health]]
