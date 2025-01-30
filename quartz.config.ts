@@ -25,26 +25,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#F8F9FA",
-          lightgray: "#E9ECEF",
-          gray: "#6C757D",
-          darkgray: "#343A40",
-          dark: "#002868",
-          secondary: "#BF0A30",
-          tertiary: "#FFD700",
-          highlight: "rgba(191, 10, 48, 0.1)",
-          textHighlight: "#FFD70033",
+          light: "#FFFFFF",    // Page background: white for a clean, bright look
+          lightgray: "#D3D3D3", // Borders: light gray for subtle separation
+          gray: "#A9A9A9",      // Graph links and heavier borders: medium gray
+          darkgray: "#333333",  // Body text: dark gray for readability
+          dark: "#000000",      // Header text and icons: black for high contrast
+          secondary: "#FFD700", // Links and current graph node: gold for a regal touch
+          tertiary: "#FFD700",  // Hover states and visited graph nodes: gold for consistency
+          highlight: "rgba(255, 215, 0, 0.1)", // Internal link background, highlighted text: soft gold
+          textHighlight: "#FFD70033", // Markdown highlighted text background: light gold tint
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#2D2D32",
-          gray: "#4A4A4F",
-          darkgray: "#E9ECEF",
-          dark: "#BF0A30",
-          secondary: "#7B97AA",
-          tertiary: "#FFD700",
-          highlight: "rgba(255, 215, 0, 0.1)",
-          textHighlight: "#BF0A3088",
+          light: "#1A1A1A",     // Page background: dark gray for contrast
+          lightgray: "#333333", // Borders: darker gray to fit dark mode
+          gray: "#666666",      // Graph links and heavier borders: light gray for visibility
+          darkgray: "#E0E0E0",  // Body text: light gray for readability in dark mode
+          dark: "#FFD700",      // Header text and icons: gold for elegance
+          secondary: "#FFD700", // Links and current graph node: gold for consistent regal theme
+          tertiary: "#FFD700",  // Hover states and visited graph nodes: bright gold for interaction
+          highlight: "rgba(255, 215, 0, 0.1)", // Internal link background, highlighted text: soft gold highlight
+          textHighlight: "#FFD70088", // Markdown highlighted text background: gold with more opacity
         },
       },
     },
