@@ -1,6 +1,3 @@
----
-title: Problem Solving
----
 ### Blogposts
 [Life, Overreaching and Correcting Error · Elliot Temple](https://www.elliottemple.com/essays/life-overreaching-correcting-error) (Same as "Start Here" on homepage)
 

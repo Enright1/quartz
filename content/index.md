@@ -11,7 +11,7 @@ Enjoy!
 
 ### 🧭 [Start Here](https://www.elliottemple.com/essays/life-overreaching-correcting-error)
 
-💡 [[Problem Solving/index|Problem Solving]]
+💡 [[Problem Solving]]
 
 ❤️ [[Health/index|Health]]
 
@@ -23,4 +23,4 @@ Enjoy!
 
 ⚖️ [[Politics & Economics/index|Politics & Economics]]
 
-🌌 [[Science & Metaphysics/index|Science & Metaphysics]]
+🌌 [[Science & Metaphysics|Science & Metaphysics]]
