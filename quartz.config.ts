@@ -30,10 +30,10 @@ const config: QuartzConfig = {
           gray: "#A9A9A9",      // Graph links and heavier borders: medium gray
           darkgray: "#333333",  // Body text: dark gray for readability
           dark: "#000000",      // Header text and icons: black for high contrast
-          secondary: "#FFD700", // Links and current graph node: gold for a regal touch
-          tertiary: "#FFD700",  // Hover states and visited graph nodes: gold for consistency
-          highlight: "rgba(255, 215, 0, 0.1)", // Internal link background, highlighted text: soft gold
-          textHighlight: "#FFD70033", // Markdown highlighted text background: light gold tint
+          secondary: "#C28840", // Darker gold for links and current graph node, better contrast
+          tertiary: "#C28840",  // Darker gold for hover states and visited graph nodes
+          highlight: "rgba(194, 136, 64, 0.1)", // Soft gold for internal link background, highlighted text
+          textHighlight: "#C2884033", // Slight dark gold tint for Markdown highlighted text background
         },
         darkMode: {
           light: "#1A1A1A",     // Page background: dark gray for contrast
@@ -88,3 +88,4 @@ const config: QuartzConfig = {
 }
 
 export default config
+
