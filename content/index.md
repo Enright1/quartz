@@ -9,16 +9,16 @@ For now my DMs are open at [@AgentOfApollo](https://x.com/AgentOfApollo)
 
 Enjoy!
 
-💡 [[Problem Solving]]
+## 💡 [[Problem Solving]]
 
-❤️ [[Health]]
+## ❤️ [[Health]]
 
-🕊️ [[Ethics]]
+## 🕊️ [[Ethics]]
 
-🎭 [[Art]]
+## 🎭 [[Art]]
 
-💰 [[Finances & Investing]]
+## 💰 [[Finances & Investing]]
 
-⚖️ [[Politics & Economics]]
+## ⚖️ [[Politics & Economics]]
 
-🌌 [[Science & Metaphysics]]
+## 🌌 [[Science & Metaphysics]]
