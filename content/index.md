@@ -13,14 +13,14 @@ Enjoy!
 
 💡 [[Problem Solving]]
 
-❤️ [[Health/index|Health]]
+❤️ [[Health]]
 
-🕊️ [[Ethics/index|Ethics]]
+🕊️ [[Ethics]]
 
-🎭 [[Art/index|Art]]
+🎭 [[Art]]
 
-💰 [[Finances & Investing/index|Finances & Investing]]
+💰 [[Finances & Investing]]
 
-⚖️ [[Politics & Economics/index|Politics & Economics]]
+⚖️ [[Politics & Economics]]
 
-🌌 [[Science & Metaphysics|Science & Metaphysics]]
+🌌 [[Science & Metaphysics]]

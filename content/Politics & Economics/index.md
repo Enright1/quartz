@@ -1,4 +1,0 @@
----
-title: Politics & Economics
----
-test
