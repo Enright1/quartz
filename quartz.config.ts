@@ -28,28 +28,28 @@ const config: QuartzConfig = {
         body: "Crimson Pro",
         code: "Courier Prime",
       },
-      colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+colors: {
+  lightMode: {
+    light: "#F8F9FA",       // Crisp white (marble/DC monuments)
+    lightgray: "#E9ECEF",   // Soft stone gray (Capitol Building columns)
+    gray: "#6C757D",        // Granite gray (DC urban accents)
+    darkgray: "#343A40",    // Deep slate (formal documents)
+    dark: "#002868",        // DC flag blue (dominant primary color)
+    secondary: "#BF0A30",   // Bold red (American flag crimson)
+    tertiary: "#FFD700",    // Gold (historical seals/DC flag stars)
+    highlight: "rgba(191, 10, 48, 0.1)",   // Subtle red highlight
+    textHighlight: "#FFD70033",            // Translucent gold for emphasis
+  },
+  darkMode: {
+    light: "#161618",       // Near-black (night sky over the Mall)
+    lightgray: "#2D2D32",   // Moonlit granite (Washington Monument)
+    gray: "#4A4A4F",        // Cool urban gray
+    darkgray: "#E9ECEF",    // Light stone (reverse contrast)
+    dark: "#BF0A30",        // Crimson red (dark mode primary accent)
+    secondary: "#7B97AA",   // Weathered bronze (Jefferson Memorial patina)
+    tertiary: "#FFD700",    // Gold (consistent accent for DC stars/seals)
+    highlight: "rgba(255, 215, 0, 0.1)",    // Gold translucent overlay
+    textHighlight: "#BF0A3088",            // Deep red translucent highlight
         },
       },
     },
