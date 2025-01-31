@@ -32,6 +32,10 @@ Lots to do—great breweries, Red Rocks Amphitheater (even if no concert, the pa
 
 **Drive Time to Rapid City, SD (Mt. Rushmore): ~6 hours**
 
+## ==**To-do:** Find more places to stop in this area==
+
+![[Pasted image 20250201031722.png]]
+
 ## **Mt. Rushmore / Crazy Horse / Rapid City, SD**
 
 Mt. Rushmore is iconic but can be underwhelming. Crazy Horse is still being carved and more impressive in scale. If you need to trim the trip, this is a possible cut.
