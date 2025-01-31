@@ -1,3 +1,18 @@
 @use "./base.scss";
 
+/* Override body text size */
+body {
+  font-size: 18px; /* Adjust as needed (default is usually 16px) */
+}
+
+/* Override article/content text size */
+.content {
+  font-size: 18px;
+}
+
+/* Adjust heading sizes proportionally */
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.8em; }
+h3 { font-size: 1.5em; }
+
 // put your custom CSS here!
