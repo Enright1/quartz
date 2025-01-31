@@ -1,3 +1,10 @@
+---
+cssclasses:
+  - "draft:"
+  - "true"
+---
+draft: true
+
 [*Metaphysics in Marble* By Mary Ann Sures](https://courses.aynrand.org/works/metaphysics-in-marble/?nab=1)
 
 The work explores the intersection of sculpture, philosophy, and reality. It examines how marble sculptures embody metaphysical concepts, raising questions about form, permanence, and human understanding. The piece challenges perceptions of art and existence, offering a deeper look into the relationship between material and abstract interpretations.
