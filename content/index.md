@@ -9,7 +9,9 @@ For those who don't know me, my DMs are open at [@AgentOfApollo](https://x.com/A
 
 Enjoy!
 
-### 💡 [[Problem Solving]]
+# Contents
+
+### 💡 [[Learning]]
 
 ### 🥕 [[Health]]
 
