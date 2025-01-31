@@ -32,7 +32,7 @@ Lots to do—great breweries, Red Rocks Amphitheater (even if no concert, the pa
 
 **Drive Time to Rapid City, SD (Mt. Rushmore): ~6 hours**
 
-## ==**To-do:** Find more places to stop in this area==
+## ==**To-do:** Find more places to stop in this area== (drives here are probably too long currently)
 
 ![[Pasted image 20250201031722.png]]
 
