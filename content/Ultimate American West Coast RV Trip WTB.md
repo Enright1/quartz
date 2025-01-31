@@ -10,7 +10,7 @@ Kick off in the live music capital of the world. Bar-hop on Sixth Street, eat BB
 
 See Dealey Plaza (JFK site), check out the Stockyards in Fort Worth for rodeo vibes, and grab a massive steak. This is a shorter stop—worth it, but not the highlight of the trip.
 
-**Drive Time to Amarillo: ~5 hours**
+**Drive Time to Amarillo: ~6 hours**
 
 ## **Amarillo, TX**
 
@@ -30,7 +30,7 @@ Great stopping point before Denver. Known for legal weed and historic architectu
 
 Lots to do—great breweries, Red Rocks Amphitheater (even if no concert, the park is worth it), and sports teams. Boulder is more nature-focused with trails and Pearl Street shopping. Skiers split here for Aspen, rejoining in Moab.
 
-**Drive Time to Rapid City, SD (Mt. Rushmore): ~6 hours**
+**Drive Time to Rapid City, SD (Mt. Rushmore): ~7 hours**
 
 ## **To-do:** Find more places to stop in this area (drives here are probably too long currently)
 
@@ -38,7 +38,7 @@ Lots to do—great breweries, Red Rocks Amphitheater (even if no concert, the pa
 
 ## **Mt. Rushmore / Crazy Horse / Rapid City, SD**
 
-Mt. Rushmore is iconic but can be underwhelming. Crazy Horse is still being carved and more impressive in scale. If you need to trim the trip, this is a possible cut.
+Mt. Rushmore is iconic but can be underwhelming. Crazy Horse is still being carved and more impressive in scale (Chris Reeve approved). If you need to trim the trip, this is a possible cut.
 
 **Drive Time to Glacier National Park/Whitefish: ~9 hours**
 
@@ -46,7 +46,7 @@ Mt. Rushmore is iconic but can be underwhelming. Crazy Horse is still being carv
 
 One of the most stunning national parks in the U.S. Going-to-the-Sun Road is a must-drive, and the hikes are world-class. Whitefish is a great small town with a strong outdoor culture.
 
-**Drive Time to Yellowstone: ~7 hours**
+**Drive Time to Yellowstone: ~8 hours**
 
 ## **Yellowstone National Park, WY**
 
@@ -68,13 +68,13 @@ Fancy mountain town. If the group wants to splurge on a cowboy-style night out o
 
 ## **Salt Lake City, UT**
 
-Quick stop to resupply. Check out the Salt Flats if you have time, but this is mostly a rest stop.
+Quick stop to resupply. Check out Temple Square or the Salt Flats if you have time, but this is mostly a rest stop.
 
 **Drive Time to Moab: ~4 hours**
 
 ## **Moab, UT**
 
-The skiers rejoin here. Incredible desert landscapes with Arches and Canyonlands National Parks nearby. Jeeping, rock climbing, and hiking make this one of the best adventure stops.
+The skiers rejoin here. Incredible desert landscapes with Arches and Canyonlands National Parks nearby. Jeeping, rock climbing, and hiking make this one of the best adventure stops. Don’t miss Dead Horse Point for an epic overlook.
 
 **Drive Time to Monument Valley: ~2.5 hours**
 
@@ -82,7 +82,7 @@ The skiers rejoin here. Incredible desert landscapes with Arches and Canyonlands
 
 Iconic Western scenery with towering sandstone buttes. Worth it for the views alone, especially at sunrise or sunset.
 
-**Drive Time to Grand Canyon (South Rim): ~3 hours**
+**Drive Time to Grand Canyon (South Rim): ~3.5 hours**
 
 ## **Flagstaff / Grand Canyon, AZ**
 
@@ -110,7 +110,7 @@ Beaches, tacos, and nightlife. La Jolla for sea lions, Gaslamp Quarter for bars,
 
 ## **Los Angeles, CA**
 
-Pick what you want—Hollywood, Venice Beach, Griffith Observatory, or Dodger Stadium. Expect traffic. For theme park fans, this is the place: Disneyland, Universal Studios, and Six Flags Magic Mountain.
+Pick what you want—Hollywood, Venice Beach, or Griffith Observatory. Expect traffic. For theme park fans, this is the place: Disneyland, Universal Studios, and Six Flags Magic Mountain.
 
 **Drive Time to Santa Barbara: ~2 hours**
 
@@ -124,15 +124,9 @@ Great coastal town. Good for a beach break and wine tasting. A quick but worthwh
 
 ## **San Francisco, CA**
 
-Golden Gate Bridge, Alcatraz, and the food scene. Avoid driving an RV in the city—park outside and use public transport.
+Golden Gate Bridge, Alcatraz, and the food scene. Avoid driving an RV in the city—park outside and use public transport. Across the bridge, Sausalito offers waterfront dining, charming shops, and scenic views of the city skyline.
 
-**Drive Time to Sacramento: ~2 hours**
-
-## **Sacramento, CA**
-
-Mostly a pass-through unless the group is into history (Old Sacramento, Gold Rush sites).
-
-**Drive Time to Reno: ~2.5 hours**
+**Drive Time to Reno: ~4 hours**
 
 ## **Reno, NV**
 
@@ -148,19 +142,21 @@ Absolutely worth it. Stunning lake, great hikes, and casinos on the Nevada side.
 
 ## **Yosemite National Park, CA**
 
-One of the most beautiful places in the U.S. Half Dome, El Capitan, and waterfalls galore. A highlight of the trip.
+One of the most beautiful places in the U.S. Half Dome, El Capitan, and waterfalls galore. Tioga Pass should be open, but make sure to check anyway. RVs should be cautious of narrow roads.
 
 **Drive Time to Death Valley: ~6 hours**
 
 ## **Death Valley, CA**
 
-Surreal landscapes and the lowest point in North America. Not much to _do_, but it’s worth a short visit just for the extremes.
+Surreal landscapes and the lowest point in North America. Not much to _do_, but it’s worth a short visit just for the extremes. Be prepared for extreme heat; RVs can overheat.
 
 **Drive Time to Las Vegas: ~2.5 hours**
 
 ## **Las Vegas, NV**
 
 End the trip with a bang. Casinos, clubs, and shows. Also worth considering as a place to buy a house together—Nevada’s tax benefits, relatively affordable housing, world-class airport, and year-round entertainment make it an appealing base for a group investment.
+
+**Optional Stop: Hoover Dam (~45 minutes from Las Vegas)** A marvel of engineering, Hoover Dam offers impressive views and a glimpse into the infrastructure that powers much of the Southwest. Worth a quick stop for photos and a short tour if time allows.
 
 This route balances scenic drives, adventure, and city fun.
 
