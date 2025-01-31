@@ -125,7 +125,7 @@ Mostly a pass-through unless the group is into history (Old Sacramento, Gold Rus
 
 ## **Reno, NV**
 
-A cheaper, smaller Vegas. Worth considering as a place to buy a house together—Nevada has no state income tax, relatively low property costs compared to California, and easy access to both outdoor adventures and city entertainment. Reno specifically offers a mix of affordability, skiing access, and a growing economy.
+A cheaper, smaller Vegas. Worth considering as a place to buy a house together—Nevada has no state income tax, relatively low property costs compared to other states, and easy access to both outdoor adventures and city entertainment. Reno specifically offers a mix of affordability, skiing access, and a growing economy.
 
 **Drive Time to Lake Tahoe: ~1 hour**
 
