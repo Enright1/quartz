@@ -21,7 +21,7 @@ Enjoy!
 
 #### 👶 [[Raising Children]]
 
-#### 💸 [[Finances & Investing]]
+#### 💸 [[Business & Finance]]
 
 #### ⚖️ [[Politics & Economics]]
 
