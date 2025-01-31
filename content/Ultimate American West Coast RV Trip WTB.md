@@ -1,4 +1,5 @@
 <div style="left: 0; height: 0; position: relative; width: 100%; padding-bottom: 75%;"><iframe frameborder="0" style="top: 0; height: 0; position: absolute; height: 100%; width: 100%;" src="https://trips.furkot.com/widget/ts/hR9J8q"></iframe></div>
+
 ## **Austin, TX**
 
 Kick off in the live music capital of the world. Bar-hop on Sixth Street, eat BBQ at Franklin’s, and take a dip in Barton Springs. If the group's into motorsports, COTA (Circuit of the Americas) might have an event.
