@@ -149,7 +149,7 @@ Surreal landscapes and the lowest point in North America. Not much to _do_, but 
 
 ## **Las Vegas, NV**
 
-End the trip with a bang. Casinos, clubs, and shows. Also worth considering as a place to buy a house together—Nevada’s tax benefits, relatively affordable housing (compared to major coastal cities), and year-round entertainment make it an appealing base for a group investment.
+End the trip with a bang. Casinos, clubs, and shows. Also worth considering as a place to buy a house together—Nevada’s tax benefits, relatively affordable housing (compared to major coastal cities), world-class airport, and year-round entertainment make it an appealing base for a group investment.
 
 This route balances scenic drives, adventure, and city fun.
 
