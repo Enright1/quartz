@@ -1,3 +1,4 @@
+![[Pasted image 20250201025246.png]]
 ## **Austin, TX**
 
 Kick off in the live music capital of the world. Bar-hop on Sixth Street, eat BBQ at Franklin’s, and take a dip in Barton Springs. If the group's into motorsports, COTA (Circuit of the Americas) might have an event.
