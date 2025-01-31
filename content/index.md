@@ -9,18 +9,18 @@ For those who don't know me, my DMs are open at [@AgentOfApollo](https://x.com/A
 
 Enjoy!
 
-#### 💡 [[Problem Solving]]
+### 💡 [[Problem Solving]]
 
-#### 🥕 [[Health]]
+### 🥕 [[Health]]
 
-#### 🕊️ [[Ethics]]
+### 🕊️ [[Ethics]]
 
-#### 🎭 [[Art]]
+### 🎭 [[Art]]
 
-#### 👶 [[Raising Children]]
+### 👶 [[Raising Children]]
 
-#### 💸 [[Finances & Investing]]
+### 💸 [[Finances & Investing]]
 
-#### ⚖️ [[Politics & Economics]]
+### ⚖️ [[Politics & Economics]]
 
-#### 🌌 [[Science & Metaphysics]]
+### 🌌 [[Science & Metaphysics]]
