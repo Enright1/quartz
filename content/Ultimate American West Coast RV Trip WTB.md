@@ -2,7 +2,7 @@
 
 ## **Austin, TX**
 
-Kick off in the live music capital of the world. Bar-hop on Sixth Street, eat BBQ at Franklin’s, and take a dip in Barton Springs. If the group's into motorsports, COTA (Circuit of the Americas) might have an event.
+Kick off in the live music capital of the world. Bar-hop on Sixth Street, eat BBQ at Franklin’s, and take a dip in Barton Springs. If it’s hot, paddleboard on Lady Bird Lake. COTA might be worth visiting for F1 fans.
 
 **Drive Time to Dallas/Fort Worth: ~3 hours**
 
@@ -20,7 +20,7 @@ Cadillac Ranch is an easy, quirky stop. If the group is up for a food challenge,
 
 ## **Trinidad, CO**
 
-Great stopping point before Denver. Known for legal weed and historic architecture. If pressed for time, this could be skipped.
+Great stopping point before Denver. Known for historic architecture and legal weed (lol). If pressed for time, this could be skipped.
 
 **Drive Time to Denver/Boulder: ~3.5 hours**
 
@@ -32,7 +32,7 @@ Lots to do—great breweries, Red Rocks Amphitheater (even if no concert, the pa
 
 **Drive Time to Rapid City, SD (Mt. Rushmore): ~7 hours**
 
-## **To-do:** Find more places to stop in this area (drives here are probably too long currently)
+## **To-do:** Find more places to stop in this area (drives around here are way too long currently)
 
 ![[Pasted image 20250201031722.png]]
 
@@ -44,7 +44,7 @@ Mt. Rushmore is iconic but can be underwhelming. Crazy Horse is still being carv
 
 ## **Glacier National Park / Whitefish, MT**
 
-One of the most stunning national parks in the U.S. Going-to-the-Sun Road is a must-drive, and the hikes are world-class. Whitefish is a great small town with a strong outdoor culture.
+One of the most stunning national parks in the U.S. Going-to-the-Sun Road is a must-drive, and the hikes are world-class. Whitefish is a great small town with a strong outdoor culture. One of the most stunning places in the U.S., but it's a massive detour north. If we need to trim time or don’t want to drive that far, this is a strong contender to get cut.
 
 **Drive Time to Yellowstone: ~8 hours**
 
@@ -130,7 +130,7 @@ Golden Gate Bridge, Alcatraz, and the food scene. Avoid driving an RV in the cit
 
 ## **Reno, NV**
 
-A cheaper, smaller Vegas. Worth considering as a place to buy a house together in the future—Nevada has no state income tax, relatively low property costs compared to other states, and easy access to both outdoor adventures and city entertainment. Reno specifically offers a mix of affordability, skiing access, and a growing economy.
+A cheaper, smaller Vegas. Might be worth considering as a place to buy property together in the future—Nevada has no state income tax, relatively low property costs compared to other states, and easy access to both outdoor adventures and city entertainment. Reno specifically offers a mix of affordability, skiing access, and a growing economy.
 
 **Drive Time to Lake Tahoe: ~1 hour**
 
@@ -144,17 +144,15 @@ Absolutely worth it. Stunning lake, great hikes, and casinos on the Nevada side.
 
 One of the most beautiful places in the U.S. Half Dome, El Capitan, and waterfalls galore. Tioga Pass should be open, but make sure to check anyway. RVs should be cautious of narrow roads.
 
-**Drive Time to Death Valley: ~6 hours**
+**Drive Time to Las Vegas (via Death Valley): ~8.5 hours**
 
-## **Death Valley, CA**
+## **Death Valley Drive**
 
-Surreal landscapes and the lowest point in North America. Not much to _do_, but it’s worth a short visit just for the extremes. Be prepared for extreme heat; RVs can overheat.
-
-**Drive Time to Las Vegas: ~2.5 hours**
+The route from Yosemite to Las Vegas passes through **Death Valley**, offering surreal desert landscapes, vast salt flats, and the lowest point in North America. This is one of the most extreme environments in the U.S.—be prepared for **intense heat**, and watch for RV overheating.
 
 ## **Las Vegas, NV**
 
-End the trip with a bang. Casinos, clubs, and shows. Also worth considering as a place to buy a house together—Nevada’s tax benefits, relatively affordable housing, world-class airport, and year-round entertainment make it an appealing base for a group investment.
+End the trip with a bang. Casinos, clubs, and shows. Another place worth considering to buy a house together—Nevada’s tax benefits, relatively affordable housing, world-class airport, and year-round entertainment make it an appealing location for a base in America.
 
 **Optional Stop: Hoover Dam (~45 minutes from Las Vegas)** A marvel of engineering, Hoover Dam offers impressive views and a glimpse into the infrastructure that powers much of the Southwest. Worth a quick stop for photos and a short tour if time allows.
 
@@ -171,8 +169,6 @@ This route balances scenic drives, adventure, and city fun.
 - Glacier National Park (huge detour)
     
 - Phoenix, AZ (not much to do vs. other stops)
-    
-- Sacramento, CA (unless into history)
     
 - Reno, NV (unless into gambling or real estate opportunities)
 
