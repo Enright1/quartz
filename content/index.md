@@ -11,13 +11,15 @@ Enjoy!
 
 ## 💡 [[Problem Solving]]
 
-## ❤️ [[Health]]
+## 🥕 [[Health]]
 
 ## 🕊️ [[Ethics]]
 
 ## 🎭 [[Art]]
 
-## 💰 [[Finances & Investing]]
+## 👶 [[Raising Children]]
+
+## 💸 [[Finances & Investing]]
 
 ## ⚖️ [[Politics & Economics]]
 
