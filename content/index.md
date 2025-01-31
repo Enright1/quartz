@@ -11,18 +11,18 @@ Enjoy!
 
 # Contents
 
-### 💡 [[Learning]]
+#### 💡 [[Learning]]
 
-### 🥕 [[Health]]
+#### 🥕 [[Health]]
 
-### 🕊️ [[Ethics]]
+#### 🕊️ [[Ethics]]
 
-### 🎭 [[Art]]
+#### 🎭 [[Art]]
 
-### 👶 [[Raising Children]]
+#### 👶 [[Raising Children]]
 
-### 💸 [[Finances & Investing]]
+#### 💸 [[Finances & Investing]]
 
-### ⚖️ [[Politics & Economics]]
+#### ⚖️ [[Politics & Economics]]
 
-### 🌌 [[Science & Metaphysics]]
+#### 🌌 [[Science & Metaphysics]]
