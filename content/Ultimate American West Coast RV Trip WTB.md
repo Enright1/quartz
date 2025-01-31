@@ -118,13 +118,13 @@ Pick what you want—Hollywood, Venice Beach, Griffith Observatory, or Dodger St
 
 Great coastal town. Good for a beach break and wine tasting. A quick but worthwhile stop.
 
+**California Coast Drive (Highway 1)** One of the most scenic drives in the world. Stops along Big Sur, Monterey, and Bixby Bridge are must-dos. If time allows, make this part of the trip.
+
 **Drive Time to San Francisco: ~5 hours**
 
 ## **San Francisco, CA**
 
 Golden Gate Bridge, Alcatraz, and the food scene. Avoid driving an RV in the city—park outside and use public transport.
-
-**California Coast Drive (Highway 1)** One of the most scenic drives in the world. Stops along Big Sur, Monterey, and Bixby Bridge are must-dos. If time allows, make this part of the trip.
 
 **Drive Time to Sacramento: ~2 hours**
 
@@ -136,7 +136,7 @@ Mostly a pass-through unless the group is into history (Old Sacramento, Gold Rus
 
 ## **Reno, NV**
 
-A cheaper, smaller Vegas. Worth considering as a place to buy a house together—Nevada has no state income tax, relatively low property costs compared to other states, and easy access to both outdoor adventures and city entertainment. Reno specifically offers a mix of affordability, skiing access, and a growing economy.
+A cheaper, smaller Vegas. Worth considering as a place to buy a house together in the future—Nevada has no state income tax, relatively low property costs compared to other states, and easy access to both outdoor adventures and city entertainment. Reno specifically offers a mix of affordability, skiing access, and a growing economy.
 
 **Drive Time to Lake Tahoe: ~1 hour**
 
@@ -160,7 +160,7 @@ Surreal landscapes and the lowest point in North America. Not much to _do_, but 
 
 ## **Las Vegas, NV**
 
-End the trip with a bang. Casinos, clubs, and shows. Also worth considering as a place to buy a house together—Nevada’s tax benefits, relatively affordable housing (compared to major coastal cities), world-class airport, and year-round entertainment make it an appealing base for a group investment.
+End the trip with a bang. Casinos, clubs, and shows. Also worth considering as a place to buy a house together—Nevada’s tax benefits, relatively affordable housing, world-class airport, and year-round entertainment make it an appealing base for a group investment.
 
 This route balances scenic drives, adventure, and city fun.
 
