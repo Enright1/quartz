@@ -40,7 +40,13 @@ Lots to do—great breweries, Red Rocks Amphitheater (even if no concert, the pa
 
 Mt. Rushmore is iconic but can be underwhelming. Crazy Horse is still being carved and more impressive in scale. If you need to trim the trip, this is a possible cut.
 
-**Drive Time to Yellowstone: ~7.5 hours**
+**Drive Time to Glacier National Park/Whitefish: ~9 hours**
+
+## **Glacier National Park / Whitefish, MT**
+
+One of the most stunning national parks in the U.S. Going-to-the-Sun Road is a must-drive, and the hikes are world-class. Whitefish is a great small town with a strong outdoor culture.
+
+**Drive Time to Yellowstone: ~7 hours**
 
 ## **Yellowstone National Park, WY**
 
