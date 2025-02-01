@@ -2,7 +2,7 @@
 
 ## **Austin, TX**
 
-Kick off in the live music capital of the world. Bar-hop on Sixth Street, eat BBQ at Franklin’s (if we can beat the massive line), and take a dip in Barton Springs. If it’s hot, paddleboard on Lady Bird Lake. COTA might be worth visiting for F1 fans.
+Kick off in the live music capital of the world. Bar-hop on Sixth Street, eat the famous BBQ, and take a dip in Barton Springs. If it’s hot, paddleboard on Lady Bird Lake. COTA might be worth visiting for F1 fans.
 
 **Drive Time to Dallas/Fort Worth: ~3 hours**
 
