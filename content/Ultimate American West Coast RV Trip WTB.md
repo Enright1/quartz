@@ -6,7 +6,7 @@ Kick off in the live music capital of the world. Bar-hop on Sixth Street, eat th
 
 **Drive Time to Dallas/Fort Worth: ~3 hours**
 
-## **Dallas/Fort Worth, TX**
+## **Dallas / Fort Worth, TX**
 
 See Dealey Plaza (JFK site), check out the Stockyards in Fort Worth for rodeo vibes, and grab a massive steak. This is a shorter stop—worth it, but not the highlight of the trip.
 
@@ -26,7 +26,7 @@ Great stopping point before Denver. Known for historic architecture and legal we
 
 **(Optional Stop: Colorado Springs, CO) (~1.5 hours from Trinidad, ~1.5 hours to Denver)** If the group is into hiking or nature, stop at Garden of the Gods or drive up Pikes Peak. Otherwise, Denver is the bigger draw.
 
-## **Denver/Boulder, CO**
+## **Denver / Boulder, CO**
 
 Lots to do—great breweries, Red Rocks Amphitheater (even if no concert, the park is worth it), and sports teams. Boulder is more nature-focused with trails and Pearl Street shopping. Skiers split here for Aspen, rejoining in Moab.
 
