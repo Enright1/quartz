@@ -2,7 +2,7 @@
 
 ## **Austin, TX**
 
-Kick off in the live music capital of the world. Bar-hop on Sixth Street, eat BBQ at Franklin’s, and take a dip in Barton Springs. If it’s hot, paddleboard on Lady Bird Lake. COTA might be worth visiting for F1 fans.
+Kick off in the live music capital of the world. Bar-hop on Sixth Street, eat BBQ at Franklin’s (if we can beat the massive line), and take a dip in Barton Springs. If it’s hot, paddleboard on Lady Bird Lake. COTA might be worth visiting for F1 fans.
 
 **Drive Time to Dallas/Fort Worth: ~3 hours**
 
@@ -38,7 +38,7 @@ Lots to do—great breweries, Red Rocks Amphitheater (even if no concert, the pa
 
 ## **Mt. Rushmore / Crazy Horse / Rapid City, SD**
 
-Mt. Rushmore is iconic but can be underwhelming. Crazy Horse is still being carved and more impressive in scale (Chris Reeve approved). If you need to trim the trip, this is a possible cut.
+Mt. Rushmore is iconic but can be underwhelming. Crazy Horse is still being carved and more impressive in scale (Chris Reeve approved). If we need to trim the trip, this is a possible cut.
 
 **Drive Time to Glacier National Park/Whitefish: ~9 hours**
 
@@ -68,7 +68,7 @@ Fancy mountain town. If the group wants to splurge on a cowboy-style night out o
 
 ## **Salt Lake City, UT**
 
-Quick stop to resupply. Check out Temple Square or the Salt Flats if you have time, but this is mostly a rest stop.
+Quick stop to resupply. We should check out Temple Square or the Salt Flats if we have time, but this is mostly a rest stop.
 
 **Drive Time to Moab: ~4 hours**
 
@@ -104,7 +104,7 @@ Good food and nightlife. Can be skipped if pressed for time, as it's not the mos
 
 ## **San Diego, CA**
 
-Beaches, tacos, and nightlife. La Jolla for sea lions, Gaslamp Quarter for bars, and Torrey Pines if anyone golfs. Consider a stop at SeaWorld or the famous San Diego Zoo.
+Beaches, tacos, and nightlife. La Jolla for sea lions, Gaslamp Quarter for bars, and Torrey Pines for the golfers. Consider a stop at SeaWorld or the famous San Diego Zoo.
 
 **Drive Time to Los Angeles: ~2.5 hours**
 
@@ -136,7 +136,7 @@ A cheaper, smaller Vegas. Might be worth considering as a place to buy property 
 
 ## **Lake Tahoe, CA/NV**
 
-Absolutely worth it. Stunning lake, great hikes, and casinos on the Nevada side. Summer: boating and beaches. Winter: skiing and snowboarding.
+Absolutely worth it. Stunning lake, great hikes, and casinos on the Nevada side. **If warm:** Boating, paddle-boarding, and beach days. **If cold:** Crisp hikes with fall colors.
 
 **Drive Time to Yosemite: ~3.5 hours**
 
