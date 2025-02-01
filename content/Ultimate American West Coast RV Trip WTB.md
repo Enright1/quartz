@@ -16,7 +16,7 @@ See Dealey Plaza (JFK site), check out the Stockyards in Fort Worth for rodeo vi
 
 Cadillac Ranch is an easy, quirky stop. If the group is up for a food challenge, The Big Texan has a 72oz steak challenge. Otherwise, this is mostly a waypoint.
 
-**Drive Time to Trinidad, CO: ~4.5 hours**
+**Drive Time to Trinidad: ~4.5 hours**
 
 ## **Trinidad, CO**
 
