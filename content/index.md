@@ -5,8 +5,6 @@ I've built this site to make it easy to share useful things with people. Here yo
 
 If something is boring or too difficult... skip it! This is me giving you permission to only read what you find interesting and can make sense of.
 
-For those who don't know me, my DMs are open at [@AgentOfApollo](https://x.com/AgentOfApollo)
-
 Enjoy!
 
 # Contents
