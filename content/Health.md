@@ -40,3 +40,9 @@ I recommend putting your health related search terms in here and reading whateve
 
 [*RayPeat2.com* by Ray Peat](https://raypeat2.com/articles/)
 
+
+
+---
+
+[*Milk Manifesto* by Anabology](https://anabology.notion.site/Milk-Manifesto-e328ddc4812c4d959243f5f44f9768e5)
+
