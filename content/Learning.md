@@ -1,3 +1,7 @@
+🚨 UNDER CONSTRUCTION 🚨
+
+---
+
 [*Life, Overreaching and Correcting Error* by Elliot Temple](https://www.elliottemple.com/essays/life-overreaching-correcting-error)
 
 Progress depends on error correction. Avoid overreaching; take manageable steps to grow. Success builds on success. Invest in improving problem-solving skills to expand future potential. Life balances effort and learning—too many errors lead to stagnation. Smart choices prevent overwhelm. Focus on steady progress, not immediate achievements, for lasting success.
