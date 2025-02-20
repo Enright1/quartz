@@ -56,3 +56,14 @@ $desktopGrid: (
       "grid-sidebar-left grid-center grid-sidebar-right"\
       "grid-sidebar-left grid-footer grid-sidebar-right"',
 );
+
+html {
+  // Dark mode colors only
+  --light: rgb(0, 0, 0);
+  --lightgray: rgb(0, 0, 0);
+  --gray: rgb(255, 255, 255);
+  --dark: rgb(255, 255, 255);
+  --secondary: rgb(255, 255, 255);
+  --tertiary: rgb(255, 255, 255);
+  --highlight: rgb(0, 0, 0);
+}
